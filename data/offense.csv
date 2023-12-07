@@ -1,0 +1,828 @@
+RK;TIERS;PLAYER NAME;TEAM;Side;CLEAN_POS;POS;BYE WEEK;SOS SEASON;ECR VS. ADP
+1;1;Jonathan Taylor;IND;Off;RB;RB1;14;3 out of 5 stars;0
+2;1;Christian McCaffrey;CAR;Off;RB;RB2;13;3 out of 5 stars;0
+3;1;Derrick Henry;TEN;Off;RB;RB3;6;4 out of 5 stars;1
+4;1;Dalvin Cook;MIN;Off;RB;RB4;7;4 out of 5 stars;3
+5;1;Austin Ekeler;LAC;Off;RB;RB5;8;2 out of 5 stars;-2
+6;2;Joe Mixon;CIN;Off;RB;RB6;10;3 out of 5 stars;3
+7;2;Najee Harris;PIT;Off;RB;RB7;9;3 out of 5 stars;1
+8;2;Justin Jefferson;MIN;Off;WR;WR1;7;2 out of 5 stars;-2
+9;2;Cooper Kupp;LAR;Off;WR;WR2;7;2 out of 5 stars;-4
+10;2;Ja'Marr Chase;CIN;Off;WR;WR3;10;3 out of 5 stars;0
+11;2;Nick Chubb;CLE;Off;RB;RB8;9;3 out of 5 stars;2
+12;3;Alvin Kamara;NO;Off;RB;RB9;14;3 out of 5 stars;4
+13;3;Mark Andrews;BAL;Off;TE;TE1;10;2 out of 5 stars;12
+14;3;Saquon Barkley;NYG;Off;RB;RB10;9;3 out of 5 stars;3
+15;3;D'Andre Swift;DET;Off;RB;RB11;6;4 out of 5 stars;-4
+16;3;Travis Kelce;KC;Off;TE;TE2;8;3 out of 5 stars;-1
+17;3;Stefon Diggs;BUF;Off;WR;WR4;7;4 out of 5 stars;-3
+18;3;Davante Adams;LV;Off;WR;WR5;6;2 out of 5 stars;-6
+19;3;Deebo Samuel;SF;Off;WR;WR6;9;3 out of 5 stars;0
+20;3;Javonte Williams;DEN;Off;RB;RB12;9;3 out of 5 stars;-2
+21;3;CeeDee Lamb;DAL;Off;WR;WR7;9;3 out of 5 stars;0
+22;3;Leonard Fournette;TB;Off;RB;RB13;11;2 out of 5 stars;2
+23;3;Aaron Jones;GB;Off;RB;RB14;14;3 out of 5 stars;-3
+24;4;Mike Evans;TB;Off;WR;WR8;11;4 out of 5 stars;2
+25;4;Tyreek Hill;MIA;Off;WR;WR9;11;2 out of 5 stars;-2
+26;4;James Conner;ARI;Off;RB;RB15;13;2 out of 5 stars;3
+27;4;Kyle Pitts;ATL;Off;TE;TE3;14;2 out of 5 stars;4
+28;4;A.J. Brown;PHI;Off;WR;WR10;7;4 out of 5 stars;0
+29;4;Tee Higgins;CIN;Off;WR;WR11;10;3 out of 5 stars;4
+30;4;Ezekiel Elliott;DAL;Off;RB;RB16;9;4 out of 5 stars;-3
+31;4;Michael Pittman Jr.;IND;Off;WR;WR12;14;4 out of 5 stars;4
+32;4;Josh Allen;BUF;Off;QB;QB1;7;3 out of 5 stars;-10
+33;4;Keenan Allen;LAC;Off;WR;WR13;8;3 out of 5 stars;-3
+34;4;Mike Williams;LAC;Off;WR;WR14;8;3 out of 5 stars;10
+35;4;DJ Moore;CAR;Off;WR;WR15;13;3 out of 5 stars;6
+36;4;Courtland Sutton;DEN;Off;WR;WR16;9;4 out of 5 stars;14
+37;5;Breece Hall;NYJ;Off;RB;RB17;10;4 out of 5 stars;2
+38;5;Terry McLaurin;WAS;Off;WR;WR17;14;4 out of 5 stars;5
+39;5;David Montgomery;CHI;Off;RB;RB18;14;5 out of 5 stars;-3
+40;5;Cam Akers;LAR;Off;RB;RB19;7;2 out of 5 stars;-2
+41;5;Justin Herbert;LAC;Off;QB;QB2;8;3 out of 5 stars;-7
+42;5;Elijah Mitchell;SF;Off;RB;RB20;9;2 out of 5 stars;6
+43;5;Travis Etienne Jr.;JAC;Off;RB;RB21;11;3 out of 5 stars;-6
+44;5;Jaylen Waddle;MIA;Off;WR;WR18;11;2 out of 5 stars;3
+45;5;DK Metcalf;SEA;Off;WR;WR19;11;4 out of 5 stars;4
+46;5;George Kittle;SF;Off;TE;TE4;9;4 out of 5 stars;-6
+47;5;Brandin Cooks;HOU;Off;WR;WR20;6;3 out of 5 stars;10
+48;5;Gabriel Davis;BUF;Off;WR;WR21;7;4 out of 5 stars;13
+49;5;Diontae Johnson;PIT;Off;WR;WR22;9;4 out of 5 stars;-4
+50;5;J.K. Dobbins;BAL;Off;RB;RB22;10;4 out of 5 stars;3
+51;5;Patrick Mahomes II;KC;Off;QB;QB3;8;2 out of 5 stars;-19
+52;5;AJ Dillon;GB;Off;RB;RB23;14;3 out of 5 stars;0
+53;5;Darren Waller;LV;Off;TE;TE5;6;2 out of 5 stars;-2
+54;5;Allen Robinson II;LAR;Off;WR;WR23;7;2 out of 5 stars;8
+55;6;Lamar Jackson;BAL;Off;QB;QB4;10;2 out of 5 stars;-9
+56;6;Marquise Brown;ARI;Off;WR;WR24;13;2 out of 5 stars;3
+57;6;Josh Jacobs;LV;Off;RB;RB24;6;2 out of 5 stars;-15
+58;6;Jerry Jeudy;DEN;Off;WR;WR25;9;4 out of 5 stars;8
+59;6;Darnell Mooney;CHI;Off;WR;WR26;14;3 out of 5 stars;4
+60;6;Kyler Murray;ARI;Off;QB;QB5;13;2 out of 5 stars;-6
+61;6;Dalton Schultz;DAL;Off;TE;TE6;9;3 out of 5 stars;3
+62;6;Antonio Gibson;WAS;Off;RB;RB25;14;4 out of 5 stars;6
+63;6;Jalen Hurts;PHI;Off;QB;QB6;7;4 out of 5 stars;-3
+64;6;Rashod Bateman;BAL;Off;WR;WR27;10;3 out of 5 stars;22
+65;6;Damien Harris;NE;Off;RB;RB26;10;4 out of 5 stars;5
+66;6;Elijah Moore;NYJ;Off;WR;WR28;10;1 out of 5 stars;19
+67;6;Chris Godwin;TB;Off;WR;WR29;11;4 out of 5 stars;-9
+68;6;Amari Cooper;CLE;Off;WR;WR30;9;4 out of 5 stars;1
+69;6;Amon-Ra St. Brown;DET;Off;WR;WR31;6;3 out of 5 stars;-14
+70;6;JuJu Smith-Schuster;KC;Off;WR;WR32;8;2 out of 5 stars;4
+71;6;Dallas Goedert;PHI;Off;TE;TE7;7;2 out of 5 stars;11
+72;7;Michael Thomas;NO;Off;WR;WR33;14;4 out of 5 stars;-5
+73;7;Rashaad Penny;SEA;Off;RB;RB27;11;2 out of 5 stars;3
+74;7;Clyde Edwards-Helaire;KC;Off;RB;RB28;8;3 out of 5 stars;-9
+75;7;Joe Burrow;CIN;Off;QB;QB7;10;2 out of 5 stars;-19
+76;7;Miles Sanders;PHI;Off;RB;RB29;7;3 out of 5 stars;4
+77;7;Adam Thielen;MIN;Off;WR;WR34;7;2 out of 5 stars;-6
+78;7;Brandon Aiyuk;SF;Off;WR;WR35;9;3 out of 5 stars;17
+79;7;Chase Edmonds;MIA;Off;RB;RB30;11;4 out of 5 stars;0
+80;7;T.J. Hockenson;DET;Off;TE;TE8;6;4 out of 5 stars;-8
+81;7;DeVonta Smith;PHI;Off;WR;WR36;7;4 out of 5 stars;9
+82;7;Tom Brady;TB;Off;QB;QB8;11;3 out of 5 stars;1
+83;7;Allen Lazard;GB;Off;WR;WR37;14;3 out of 5 stars;17
+84;7;Russell Wilson;DEN;Off;QB;QB9;9;4 out of 5 stars;-6
+85;7;Dameon Pierce;HOU;Off;RB;RB31;6;3 out of 5 stars;4
+86;7;Rhamondre Stevenson;NE;Off;RB;RB32;10;4 out of 5 stars;1
+87;7;Tony Pollard;DAL;Off;RB;RB33;9;4 out of 5 stars;-6
+88;7;Kareem Hunt;CLE;Off;RB;RB34;9;3 out of 5 stars;-4
+89;7;Drake London;ATL;Off;WR;WR38;14;4 out of 5 stars;10
+90;7;Devin Singletary;BUF;Off;RB;RB35;7;4 out of 5 stars;-17
+91;7;Dak Prescott;DAL;Off;QB;QB10;9;3 out of 5 stars;-14
+92;7;Tyler Lockett;SEA;Off;WR;WR39;11;4 out of 5 stars;9
+93;7;Dawson Knox;BUF;Off;TE;TE9;7;3 out of 5 stars;5
+94;7;Trey Lance;SF;Off;QB;QB11;9;3 out of 5 stars;10
+95;7;Cordarrelle Patterson;ATL;Off;RB;RB36;14;1 out of 5 stars;-20
+96;7;DeAndre Hopkins;ARI;Off;WR;WR40;13;2 out of 5 stars;-3
+97;7;Christian Kirk;JAC;Off;WR;WR41;11;4 out of 5 stars;5
+98;7;Zach Ertz;ARI;Off;TE;TE10;13;3 out of 5 stars;-4
+99;7;Hunter Renfrow;LV;Off;WR;WR42;6;2 out of 5 stars;-11
+100;7;Melvin Gordon III;DEN;Off;RB;RB37;9;3 out of 5 stars;-3
+101;7;Robert Woods;TEN;Off;WR;WR43;6;3 out of 5 stars;2
+102;7;Matthew Stafford;LAR;Off;QB;QB12;7;3 out of 5 stars;-6
+103;8;Aaron Rodgers;GB;Off;QB;QB13;14;2 out of 5 stars;-11
+104;8;Ken Walker III;SEA;Off;RB;RB38;11;2 out of 5 stars;-13
+105;8;Kadarius Toney;NYG;Off;WR;WR44;9;4 out of 5 stars;10
+106;8;Kirk Cousins;MIN;Off;QB;QB14;7;3 out of 5 stars;6
+107;8;Chris Olave;NO;Off;WR;WR45;14;4 out of 5 stars;-2
+108;8;Derek Carr;LV;Off;QB;QB15;6;2 out of 5 stars;1
+109;8;Treylon Burks;TEN;Off;WR;WR46;6;3 out of 5 stars;-3
+110;8;Chase Claypool;PIT;Off;WR;WR47;9;4 out of 5 stars;1
+111;8;Darrell Henderson Jr.;LAR;Off;RB;RB39;7;2 out of 5 stars;3
+112;8;Cole Kmet;CHI;Off;TE;TE11;14;5 out of 5 stars;4
+113;8;James Cook;BUF;Off;RB;RB40;7;4 out of 5 stars;-5
+114;8;Pat Freiermuth;PIT;Off;TE;TE12;9;4 out of 5 stars;3
+115;8;Hunter Henry;NE;Off;TE;TE13;10;4 out of 5 stars;51
+116;8;Michael Carter;NYJ;Off;RB;RB41;10;4 out of 5 stars;-9
+117;8;Tua Tagovailoa;MIA;Off;QB;QB16;11;2 out of 5 stars;10
+118;8;James Robinson;JAC;Off;RB;RB42;11;3 out of 5 stars;-8
+119;8;Justin Fields;CHI;Off;QB;QB17;14;4 out of 5 stars;13
+120;8;Alexander Mattison;MIN;Off;RB;RB43;7;4 out of 5 stars;-7
+121;8;Garrett Wilson;NYJ;Off;WR;WR48;10;1 out of 5 stars;1
+122;8;Marquez Valdes-Scantling;KC;Off;WR;WR49;8;2 out of 5 stars;13
+123;8;Skyy Moore;KC;Off;WR;WR50;8;2 out of 5 stars;5
+124;8;Tyler Boyd;CIN;Off;WR;WR51;10;3 out of 5 stars;-1
+125;8;Trevor Lawrence;JAC;Off;QB;QB18;11;5 out of 5 stars;16
+126;8;Kenneth Gainwell;PHI;Off;RB;RB44;7;3 out of 5 stars;-7
+127;9;Russell Gage;TB;Off;WR;WR52;11;4 out of 5 stars;6
+128;9;Irv Smith Jr.;MIN;Off;TE;TE14;7;3 out of 5 stars;15
+129;9;Mike Gesicki;MIA;Off;TE;TE15;11;3 out of 5 stars;-9
+130;9;Albert Okwuegbunam;DEN;Off;TE;TE16;9;3 out of 5 stars;19
+131;9;Jamaal Williams;DET;Off;RB;RB45;6;4 out of 5 stars;7
+132;9;Nyheim Hines;IND;Off;RB;RB46;14;3 out of 5 stars;-7
+133;9;David Njoku;CLE;Off;TE;TE17;9;4 out of 5 stars;27
+134;9;Jameis Winston;NO;Off;QB;QB19;14;3 out of 5 stars;30
+135;9;Michael Gallup;DAL;Off;WR;WR53;9;3 out of 5 stars;15
+136;9;Khalil Herbert;CHI;Off;RB;RB47;14;5 out of 5 stars;-2
+137;9;Raheem Mostert;MIA;Off;RB;RB48;11;4 out of 5 stars;2
+138;9;Jakobi Meyers;NE;Off;WR;WR54;10;4 out of 5 stars;10
+139;9;Matt Ryan;IND;Off;QB;QB20;14;3 out of 5 stars;22
+140;9;DeVante Parker;NE;Off;WR;WR55;10;4 out of 5 stars;11
+141;9;DJ Chark Jr.;DET;Off;WR;WR56;6;3 out of 5 stars;-1
+142;9;George Pickens;PIT;Off;WR;WR57;9;4 out of 5 stars;-16
+143;9;Noah Fant;SEA;Off;TE;TE18;11;2 out of 5 stars;35
+144;9;Tyler Allgeier;ATL;Off;RB;RB49;14;1 out of 5 stars;-7
+145;9;Gerald Everett;LAC;Off;TE;TE19;8;4 out of 5 stars;48
+146;9;Tyler Higbee;LAR;Off;TE;TE20;7;3 out of 5 stars;78
+147;9;Ryan Tannehill;TEN;Off;QB;QB21;6;4 out of 5 stars;18
+148;9;Jarvis Landry;NO;Off;WR;WR58;14;4 out of 5 stars;-12
+149;9;Robert Tonyan;GB;Off;TE;TE21;14;1 out of 5 stars;20
+150;9;Kenny Golladay;NYG;Off;WR;WR59;9;4 out of 5 stars;9
+151;9;Rondale Moore;ARI;Off;WR;WR60;13;2 out of 5 stars;-9
+153;9;Rachaad White;TB;Off;RB;RB50;11;2 out of 5 stars;-22
+154;9;Julio Jones;TB;Off;WR;WR61;11;4 out of 5 stars;-10
+155;9;Jahan Dotson;WAS;Off;WR;WR62;14;4 out of 5 stars;-2
+156;9;Isaiah Spiller;LAC;Off;RB;RB51;8;2 out of 5 stars;-32
+157;9;J.D. McKissic;WAS;Off;RB;RB52;14;4 out of 5 stars;-12
+159;9;Daniel Jones;NYG;Off;QB;QB22;9;5 out of 5 stars;76
+160;9;Mac Jones;NE;Off;QB;QB23;10;4 out of 5 stars;12
+161;9;Evan Engram;JAC;Off;TE;TE22;11;4 out of 5 stars;27
+162;9;Nico Collins;HOU;Off;WR;WR63;6;3 out of 5 stars;37
+163;10;Zamir White;LV;Off;RB;RB53;6;2 out of 5 stars;10
+164;10;Austin Hooper;TEN;Off;TE;TE23;6;5 out of 5 stars;74
+166;10;Carson Wentz;WAS;Off;QB;QB24;14;4 out of 5 stars;40
+167;10;Corey Davis;NYJ;Off;WR;WR64;10;1 out of 5 stars;37
+168;10;Gus Edwards;BAL;Off;RB;RB54;10;4 out of 5 stars;40
+169;10;Mark Ingram II;NO;Off;RB;RB55;14;3 out of 5 stars;11
+170;10;Jared Goff;DET;Off;QB;QB25;6;3 out of 5 stars;49
+171;10;Joshua Palmer;LAC;Off;WR;WR65;8;3 out of 5 stars;6
+172;10;Logan Thomas;WAS;Off;TE;TE24;14;4 out of 5 stars;71
+174;10;Mecole Hardman;KC;Off;WR;WR66;8;2 out of 5 stars;-4
+175;10;Justin Tucker;BAL;Off;K;K;10;3 out of 5 stars;-54
+176;10;K.J. Osborn;MIN;Off;WR;WR67;7;2 out of 5 stars;20
+177;10;Van Jefferson;LAR;Off;WR;WR68;7;2 out of 5 stars;45
+178;10;Hayden Hurst;CIN;Off;TE;TE25;10;2 out of 5 stars;53
+181;10;Brian Robinson Jr.;WAS;Off;RB;RB56;14;4 out of 5 stars;-52
+182;10;D'Onta Foreman;CAR;Off;RB;RB57;13;3 out of 5 stars;-1
+183;10;Robbie Anderson;CAR;Off;WR;WR69;13;3 out of 5 stars;11
+184;10;Zach Wilson;NYJ;Off;QB;QB26;10;1 out of 5 stars;41
+187;10;Jameson Williams;DET;Off;WR;WR70;6;3 out of 5 stars;-11
+188;10;Baker Mayfield;CAR;Off;QB;QB27;13;3 out of 5 stars;4
+189;10;Tyler Bass;BUF;Off;K;K;7;4 out of 5 stars;-18
+190;10;Davis Mills;HOU;Off;QB;QB28;6;4 out of 5 stars;22
+191;10;Marvin Jones Jr.;JAC;Off;WR;WR71;11;4 out of 5 stars;25
+192;10;Darrel Williams;ARI;Off;RB;RB58;13;2 out of 5 stars;-9
+193;10;Christian Watson;GB;Off;WR;WR72;14;3 out of 5 stars;-14
+194;10;Jalen Tolbert;DAL;Off;WR;WR73;9;3 out of 5 stars;-27
+195;10;Boston Scott;PHI;Off;RB;RB59;7;3 out of 5 stars;58
+197;10;Matt Gay;LAR;Off;K;K;7;2 out of 5 stars;-23
+198;10;Ronald Jones II;KC;Off;RB;RB60;8;3 out of 5 stars;-13
+200;10;Evan McPherson;CIN;Off;K;K;10;0 out of 5 stars;-54
+201;10;Isiah Pacheco;KC;Off;RB;RB61;8;3 out of 5 stars;-17
+202;10;KJ Hamler;DEN;Off;WR;WR74;9;4 out of 5 stars;28
+203;10;Marlon Mack;FA;Off;RB;RB62;-;-;-28
+204;10;Daniel Carlson;LV;Off;K;K;6;2 out of 5 stars;-57
+205;11;Wan'Dale Robinson;NYG;Off;WR;WR75;9;4 out of 5 stars;-2
+206;11;Curtis Samuel;WAS;Off;WR;WR76;14;4 out of 5 stars;42
+207;11;Brevin Jordan;HOU;Off;TE;TE26;6;3 out of 5 stars;66
+208;11;Donovan Peoples-Jones;CLE;Off;WR;WR77;9;4 out of 5 stars;29
+210;11;Parris Campbell;IND;Off;WR;WR78;14;4 out of 5 stars;30
+212;11;Alec Pierce;IND;Off;WR;WR79;14;4 out of 5 stars;-17
+213;11;Isaiah McKenzie;BUF;Off;WR;WR80;7;4 out of 5 stars;-50
+215;11;Marcus Mariota;ATL;Off;QB;QB29;14;3 out of 5 stars;42
+216;11;Kendrick Bourne;NE;Off;WR;WR81;10;4 out of 5 stars;70
+217;11;Romeo Doubs;GB;Off;WR;WR82;14;3 out of 5 stars;-62
+218;11;Tyrion Davis-Price;SF;Off;RB;RB63;9;2 out of 5 stars;-11
+219;11;Ryan Succop;TB;Off;K6;K6;11;1 out of 5 stars;-9
+220;11;Harrison Butker;KC;Off;K7;K7;8;5 out of 5 stars;-62
+221;11;Sony Michel;FA;Off;RB;RB64;-;-;-3
+222;11;Mo Alie-Cox;IND;Off;TE;TE27;14;2 out of 5 stars;88
+224;11;Jeff Wilson Jr.;SF;Off;RB;RB65;9;2 out of 5 stars;-26
+225;11;Jamison Crowder;BUF;Off;WR;WR83;7;4 out of 5 stars;31
+226;11;Matt Prater;ARI;Off;K8;K8;13;2 out of 5 stars;-37
+227;11;A.J. Green;ARI;Off;WR;WR84;13;2 out of 5 stars;40
+229;11;Jonnu Smith;NE;Off;TE;TE28;10;4 out of 5 stars;40
+231;11;D'Ernest Johnson;CLE;Off;RB;RB66;9;3 out of 5 stars;29
+232;11;David Bell;CLE;Off;WR;WR85;9;4 out of 5 stars;22
+233;11;Samaje Perine;CIN;Off;RB;RB67;10;3 out of 5 stars;42
+234;11;Chuba Hubbard;CAR;Off;RB;RB68;13;3 out of 5 stars;-8
+236;11;Sterling Shepard;NYG;Off;WR;WR86;9;4 out of 5 stars;60
+237;11;Rodrigo Blankenship;IND;Off;K9;K9;14;4 out of 5 stars;-26
+238;11;Jason Sanders;MIA;Off;K;K0;11;1 out of 5 stars;70
+239;11;Zack Moss;BUF;Off;RB;RB69;7;4 out of 5 stars;92
+240;11;Mike Davis;BAL;Off;RB;RB70;10;4 out of 5 stars;-49
+241;11;Jerick McKinnon;KC;Off;RB;RB71;8;3 out of 5 stars;33
+242;11;Younghoe Koo;ATL;Off;K;K1;14;1 out of 5 stars;-10
+243;11;Damien Williams;ATL;Off;RB;RB72;14;1 out of 5 stars;33
+244;11;Trey Sermon;SF;Off;RB;RB73;9;2 out of 5 stars;26
+245;11;Brandon McManus;DEN;Off;K;K;9;4 out of 5 stars;-32
+246;11;Zay Jones;JAC;Off;WR;WR87;11;4 out of 5 stars;94
+247;11;Laviska Shenault Jr.;CAR;Off;WR;WR88;13;3 out of 5 stars;46
+249;11;Nick Folk;NE;Off;K;K;10;5 out of 5 stars;-10
+250;11;Mitch Trubisky;PIT;Off;QB;QB30;9;3 out of 5 stars;9
+251;11;Robbie Gould;SF;Off;K;K;9;3 out of 5 stars;14
+253;11;Jake Elliott;PHI;Off;K;K;7;2 out of 5 stars;42
+254;11;Terrace Marshall Jr.;CAR;Off;WR;WR89;13;3 out of 5 stars;34
+255;11;Rex Burkhead;HOU;Off;RB;RB74;6;3 out of 5 stars;82
+256;12;Byron Pringle;CHI;Off;WR;WR90;14;3 out of 5 stars;95
+257;12;Deshaun Watson;CLE;Off;QB;QB31;9;4 out of 5 stars;-55
+259;12;Adam Trautman;NO;Off;TE;TE29;14;4 out of 5 stars;67
+260;12;Dustin Hopkins;LAC;Off;K;K6;8;5 out of 5 stars;-39
+261;12;Randall Cobb;GB;Off;WR;WR91;14;3 out of 5 stars;28
+262;12;Eno Benjamin;ARI;Off;RB;RB75;13;2 out of 5 stars;-18
+263;12;Sammy Watkins;GB;Off;WR;WR92;14;3 out of 5 stars;-77
+264;12;Bryan Edwards;ATL;Off;WR;WR93;14;4 out of 5 stars;113
+266;12;Cameron Brate;TB;Off;TE;TE30;11;3 out of 5 stars;-25
+267;12;Braxton Berrios;NYJ;Off;WR;WR94;10;1 out of 5 stars;34
+268;12;Wil Lutz;NO;Off;K;K7;14;4 out of 5 stars;-53
+270;12;Greg Zuerlein;NYJ;Off;K;K8;10;0 out of 5 stars;94
+271;12;Dan Arnold;JAC;Off;TE;TE31;11;4 out of 5 stars;100
+272;12;Chris Boswell;PIT;Off;K;K9;9;3 out of 5 stars;22
+273;12;C.J. Uzomah;NYJ;Off;TE;TE32;10;3 out of 5 stars;19
+274;12;Mason Crosby;GB;Off;K;K0;14;4 out of 5 stars;94
+275;12;Matt Breida;NYG;Off;RB;RB76;9;3 out of 5 stars;-3
+276;12;Nelson Agholor;NE;Off;WR;WR95;10;4 out of 5 stars;84
+277;12;Joshua Kelley;LAC;Off;RB;RB77;8;2 out of 5 stars;-43
+278;12;Cedrick Wilson Jr.;MIA;Off;WR;WR96;11;2 out of 5 stars;19
+279;12;Marquez Callaway;NO;Off;WR;WR97;14;4 out of 5 stars;12
+280;12;Kenyan Drake;BAL;Off;RB;RB78;10;4 out of 5 stars;-31
+281;12;Myles Gaskin;MIA;Off;RB;RB79;11;4 out of 5 stars;-34
+282;12;Greg Joseph;MIN;Off;K;K1;7;0 out of 5 stars;-5
+284;12;Hassan Haskins;TEN;Off;RB;RB80;6;4 out of 5 stars;-56
+286;12;Ke'Shawn Vaughn;TB;Off;RB;RB81;11;2 out of 5 stars;-20
+287;12;William Fuller V;FA;Off;WR;WR98;-;-;0
+288;12;Graham Gano;NYG;Off;K;K2;9;1 out of 5 stars;59
+289;12;Trey McBride;ARI;Off;TE;TE33;13;3 out of 5 stars;-4
+290;12;Jason Myers;SEA;Off;K;K;11;5 out of 5 stars;104
+291;12;Kenny Pickett;PIT;Off;QB;QB32;9;3 out of 5 stars;-68
+293;12;Odell Beckham Jr.;FA;Off;WR;WR99;-;-;-60
+294;12;Cairo Santos;CHI;Off;K;K;14;3 out of 5 stars;9
+295;12;O.J. Howard;FA;Off;TE;TE34;-;-;-
+296;12;Randy Bullock;TEN;Off;K;K;6;3 out of 5 stars;80
+297;12;Josh Reynolds;DET;Off;WR;WR100;6;3 out of 5 stars;-
+298;12;Kyle Rudolph;TB;Off;TE;TE35;11;3 out of 5 stars;-71
+299;12;Phillip Lindsay;FA;Off;RB;RB82;-;-;-
+301;12;Jacoby Brissett;CLE;Off;QB;QB33;9;4 out of 5 stars;-39
+302;12;Quez Watkins;PHI;Off;WR;WR101;7;4 out of 5 stars;-21
+303;12;Chris Evans;CIN;Off;RB;RB83;10;3 out of 5 stars;3
+304;12;Geno Smith;SEA;Off;QB;QB34;11;3 out of 5 stars;-46
+305;12;Kyren Williams;LAR;Off;RB;RB84;7;2 out of 5 stars;-34
+307;12;Ka'imi Fairbairn;HOU;Off;K;K6;6;4 out of 5 stars;-
+308;12;Velus Jones Jr.;CHI;Off;WR;WR102;14;3 out of 5 stars;27
+309;13;Nick Westbrook-Ikhine;TEN;Off;WR;WR103;6;3 out of 5 stars;72
+310;13;Tre'Quan Smith;NO;Off;WR;WR104;14;4 out of 5 stars;59
+311;13;Drew Lock;SEA;Off;QB;QB35;11;3 out of 5 stars;-56
+312;13;Jimmy Garoppolo;SF;Off;QB;QB36;9;3 out of 5 stars;-44
+314;13;Darius Slayton;NYG;Off;WR;WR105;9;4 out of 5 stars;-
+315;13;Devin Duvernay;BAL;Off;WR;WR106;10;3 out of 5 stars;-52
+316;13;Daniel Bellinger;NYG;Off;TE;TE36;9;4 out of 5 stars;13
+317;13;Tyler Conklin;NYJ;Off;TE;TE37;10;3 out of 5 stars;41
+318;13;Greg Dulcich;DEN;Off;TE;TE38;9;3 out of 5 stars;39
+319;13;Dontrell Hilliard;TEN;Off;RB;RB85;6;4 out of 5 stars;-119
+320;13;Ameer Abdullah;LV;Off;RB;RB86;6;2 out of 5 stars;-100
+321;13;Pierre Strong Jr.;NE;Off;RB;RB87;10;4 out of 5 stars;-
+322;13;Dyami Brown;WAS;Off;WR;WR107;14;4 out of 5 stars;64
+323;13;Jalen Reagor;PHI;Off;WR;WR108;7;4 out of 5 stars;-
+324;13;Isaiah Likely;BAL;Off;TE;TE39;10;2 out of 5 stars;-123
+325;13;Quintez Cephus;DET;Off;WR;WR109;6;3 out of 5 stars;-
+326;13;Justin Jackson;FA;Off;RB;RB88;-;-;-
+327;13;Ty Johnson;NYJ;Off;RB;RB89;10;4 out of 5 stars;55
+328;13;Giovani Bernard;TB;Off;RB;RB90;11;2 out of 5 stars;42
+329;13;Jaylen Warren;PIT;Off;RB;RB91;9;3 out of 5 stars;5
+330;13;Kyle Philips;TEN;Off;WR;WR110;6;3 out of 5 stars;12
+331;13;Harrison Bryant;CLE;Off;TE;TE40;9;4 out of 5 stars;-
+332;13;Salvon Ahmed;MIA;Off;RB;RB92;11;4 out of 5 stars;-
+333;13;Tommy Tremble;CAR;Off;TE;TE41;13;3 out of 5 stars;-
+334;13;Darrynton Evans;FA;Off;RB;RB93;-;-;-
+335;13;Snoop Conner;JAC;Off;RB;RB94;11;3 out of 5 stars;-
+336;13;Emmanuel Sanders;FA;Off;WR;WR111;-;-;17
+337;13;Tevin Coleman;FA;Off;RB;RB95;-;-;42
+338;13;Tyler Badie;FA;Off;RB;RB96;-;-;-
+339;13;Chase McLaughlin;FA;Off;K;K7;-;-;-
+340;13;Desmond Ridder;ATL;Off;QB;QB37;14;3 out of 5 stars;-58
+341;13;Duke Johnson Jr.;FA;Off;RB;RB97;-;-;-3
+342;13;James Proche II;BAL;Off;WR;WR112;10;3 out of 5 stars;-
+344;13;Jerome Ford;CLE;Off;RB;RB98;9;3 out of 5 stars;-
+345;13;Donald Parham Jr.;LAC;Off;TE;TE42;8;4 out of 5 stars;-
+346;13;Josh Lambo;FA;Off;K;K8;-;-;-
+347;13;Sam Darnold;CAR;Off;QB;QB38;13;3 out of 5 stars;-45
+348;13;Jalen Guyton;LAC;Off;WR;WR113;8;3 out of 5 stars;-
+349;13;Foster Moreau;LV;Off;TE;TE43;6;2 out of 5 stars;-
+350;13;Cade York;CLE;Off;K;K9;9;3 out of 5 stars;-98
+351;13;Jared Cook;FA;Off;TE;TE44;-;-;24
+352;13;Jaret Patterson;FA;Off;RB;RB99;-;-;7
+353;13;Khalil Shakir;BUF;Off;WR;WR114;7;4 out of 5 stars;-3
+354;13;Brett Maher;FA;Off;K;K0;-;-;34
+355;13;Jelani Woods;IND;Off;TE;TE45;14;2 out of 5 stars;-
+356;13;Cole Beasley;FA;Off;WR;WR115;-;-;0
+357;14;Tyquan Thornton;NE;Off;WR;WR116;10;4 out of 5 stars;-73
+358;14;Olamide Zaccheaus;ATL;Off;WR;WR117;14;4 out of 5 stars;-46
+359;14;Danny Gray;SF;Off;WR;WR118;9;3 out of 5 stars;-
+361;14;Keaontay Ingram;ARI;Off;RB;RB100;13;2 out of 5 stars;-97
+362;14;Anthony Firkser;FA;Off;TE;TE46;-;-;-
+364;14;Taysom Hill;NO;Off;TE;TE47;14;4 out of 5 stars;-135
+365;14;Ty Montgomery;NE;Off;RB;RB101;10;4 out of 5 stars;-
+366;14;John Metchie III;HOU;Off;WR;WR119;6;3 out of 5 stars;33
+367;14;Malcolm Brown;FA;Off;RB;RB102;-;-;-
+368;14;Cade Otton;TB;Off;TE;TE48;11;3 out of 5 stars;-
+369;14;David Johnson;FA;Off;RB;RB103;-;-;-28
+370;14;DeeJay Dallas;SEA;Off;RB;RB104;11;2 out of 5 stars;-
+371;14;Malik Willis;TEN;Off;QB;QB39;6;4 out of 5 stars;-28
+372;14;Demarcus Robinson;BAL;Off;WR;WR120;10;3 out of 5 stars;-
+373;14;Latavius Murray;FA;Off;RB;RB105;-;-;-7
+374;14;Joey Slye;WAS;Off;K;K1;14;4 out of 5 stars;-84
+375;14;T.Y. Hilton;FA;Off;WR;WR121;-;-;-13
+376;14;James Washington;DAL;Off;WR;WR122;9;3 out of 5 stars;-
+377;14;Devontae Booker;FA;Off;RB;RB106;-;-;-79
+378;14;Benny Snell Jr.;PIT;Off;RB;RB107;9;3 out of 5 stars;-69
+379;14;Calvin Austin III;PIT;Off;WR;WR123;9;4 out of 5 stars;-
+380;14;Kene Nwangwu;MIN;Off;RB;RB108;7;4 out of 5 stars;7
+381;14;Amari Rodgers;GB;Off;WR;WR124;14;3 out of 5 stars;-42
+382;14;Devonta Freeman;FA;Off;RB;RB109;-;-;-21
+383;14;John Bates;WAS;Off;TE;TE49;14;4 out of 5 stars;-
+384;14;Rashard Higgins;CAR;Off;WR;WR125;13;3 out of 5 stars;-
+386;14;Jauan Jennings;SF;Off;WR;WR126;9;3 out of 5 stars;-
+387;14;Chris Conley;FA;Off;WR;WR127;-;-;-
+388;14;Travis Homer;SEA;Off;RB;RB110;11;2 out of 5 stars;3
+389;14;Austin Seibert;DET;Off;K;K2;6;3 out of 5 stars;-
+390;14;Kylen Granson;IND;Off;TE;TE50;14;2 out of 5 stars;-
+391;14;Josiah Deguara;GB;Off;TE;TE51;14;1 out of 5 stars;-
+392;14;Noah Brown;DAL;Off;WR;WR128;9;3 out of 5 stars;-
+393;14;Wayne Gallman Jr.;FA;Off;RB;RB111;-;-;-20
+394;14;Brandon Bolden;LV;Off;RB;RB112;6;2 out of 5 stars;-20
+395;14;Anthony Schwartz;CLE;Off;WR;WR129;9;4 out of 5 stars;-
+396;14;Equanimeous St. Brown;CHI;Off;WR;WR130;14;3 out of 5 stars;-
+397;14;Dee Eskridge;SEA;Off;WR;WR131;11;4 out of 5 stars;-2
+398;14;Teddy Bridgewater;MIA;Off;QB;QB40;11;2 out of 5 stars;-
+399;14;Joe Flacco;NYJ;Off;QB;QB41;10;1 out of 5 stars;-
+400;14;Craig Reynolds;DET;Off;RB;RB113;6;4 out of 5 stars;-
+401;14;Trestan Ebner;CHI;Off;RB;RB114;14;5 out of 5 stars;-
+402;14;Zach Pascal;PHI;Off;WR;WR132;7;4 out of 5 stars;-39
+403;14;Deonte Harty;NO;Off;WR;WR133;14;4 out of 5 stars;-20
+404;14;Juwan Johnson;NO;Off;TE;TE52;14;4 out of 5 stars;-
+405;14;Ashton Dulin;IND;Off;WR;WR134;14;4 out of 5 stars;-
+406;14;Laquon Treadwell;FA;Off;WR;WR135;-;-;-
+407;14;Pharaoh Brown;HOU;Off;TE;TE53;6;3 out of 5 stars;-9
+408;14;Tony Jones Jr.;NO;Off;RB;RB115;14;3 out of 5 stars;-
+409;14;Tutu Atwell;LAR;Off;WR;WR136;7;2 out of 5 stars;-
+410;14;Will Dissly;SEA;Off;TE;TE54;11;2 out of 5 stars;-
+411;14;Tristan Vizcaino;FA;Off;K;K3;-;-;-
+412;14;Jonathan Garibay;FA;Off;K;K;-;-;-12
+413;14;Justin Watson;KC;Off;WR;WR137;8;2 out of 5 stars;-
+414;14;Geoff Swaim;TEN;Off;TE;TE55;6;5 out of 5 stars;-
+415;14;Mack Hollins;LV;Off;WR;WR138;6;2 out of 5 stars;-
+416;14;Keelan Cole Sr.;FA;Off;WR;WR139;-;-;-
+417;14;Ty Chandler;MIN;Off;RB;RB116;7;4 out of 5 stars;-27
+418;15;Tyler Johnson;FA;Off;WR;WR140;-;-;-
+419;15;Tyrod Taylor;NYG;Off;QB;QB42;9;5 out of 5 stars;-26
+420;15;Jamal Agnew;JAC;Off;WR;WR141;11;4 out of 5 stars;-
+421;15;Anthony McFarland Jr.;FA;Off;RB;RB117;-;-;-
+422;15;Mike Boone;DEN;Off;RB;RB118;9;3 out of 5 stars;-
+423;15;Justice Hill;BAL;Off;RB;RB119;10;4 out of 5 stars;-
+424;15;Kyle Juszczyk;SF;Off;RB;RB120;9;2 out of 5 stars;-
+425;15;Jeremy Ruckert;NYJ;Off;TE;TE56;10;3 out of 5 stars;-
+426;15;Chigoziem Okonkwo;TEN;Off;TE;TE57;6;5 out of 5 stars;-
+427;15;Eric Ebron;FA;Off;TE;TE58;-;-;-
+428;15;Riley Patterson;FA;Off;K;K;-;-;-
+429;15;Sam Howell;WAS;Off;QB;QB43;14;4 out of 5 stars;-
+430;15;Larry Rountree III;LAC;Off;RB;RB121;8;2 out of 5 stars;-
+431;15;Blake Jarwin;FA;Off;TE;TE59;-;-;-
+432;15;Phillip Dorsett II;HOU;Off;WR;WR142;6;3 out of 5 stars;-
+433;15;Abram Smith;FA;Off;RB;RB122;-;-;-
+434;15;Ben Skowronek;LAR;Off;WR;WR143;7;2 out of 5 stars;-
+435;15;Antonio Brown;FA;Off;WR;WR144;-;-;-91
+436;15;Jordan Mason;SF;Off;RB;RB123;9;2 out of 5 stars;-
+437;15;Tarik Cohen;FA;Off;RB;RB124;-;-;-
+438;15;Tylan Wallace;BAL;Off;WR;WR145;10;3 out of 5 stars;-
+439;15;Freddie Swain;FA;Off;WR;WR146;-;-;-
+440;15;Tyler Huntley;BAL;Off;QB;QB44;10;2 out of 5 stars;-
+441;15;Gardner Minshew II;PHI;Off;QB;QB45;7;4 out of 5 stars;-
+442;15;Quinn Nordin;FA;Off;K;K6;-;-;-126
+443;15;Durham Smythe;MIA;Off;TE;TE60;11;3 out of 5 stars;-
+444;15;Ian Thomas;CAR;Off;TE;TE61;13;3 out of 5 stars;-
+445;15;James McCourt;JAC;Off;K;K7;11;4 out of 5 stars;-
+446;15;Jake Ferguson;DAL;Off;TE;TE62;9;3 out of 5 stars;-
+447;15;Demetric Felton Jr.;CLE;Off;RB;RB125;9;3 out of 5 stars;-
+448;15;Derrick Gore;FA;Off;RB;RB126;-;-;-
+449;15;Tyrell Williams;FA;Off;WR;WR147;-;-;-
+450;15;N'Keal Harry;CHI;Off;WR;WR148;14;3 out of 5 stars;-102
+451;15;Ihmir Smith-Marsette;MIN;Off;WR;WR149;7;2 out of 5 stars;-
+452;15;Jeremy McNichols;PIT;Off;RB;RB127;9;3 out of 5 stars;-
+453;15;Simi Fehoko;DAL;Off;WR;WR150;9;3 out of 5 stars;-
+454;15;Denzel Mims;NYJ;Off;WR;WR151;10;1 out of 5 stars;-
+455;15;Kalif Raymond;DET;Off;WR;WR152;6;3 out of 5 stars;-83
+456;15;Jordan Howard;FA;Off;RB;RB128;-;-;-91
+457;15;Carlos Hyde;FA;Off;RB;RB129;-;-;-
+458;15;Justyn Ross;KC;Off;WR;WR153;8;2 out of 5 stars;-
+459;15;Auden Tate;FA;Off;WR;WR154;-;-;-
+460;15;Jermar Jefferson;DET;Off;RB;RB130;6;4 out of 5 stars;-
+461;15;Antoine Wesley;ARI;Off;WR;WR155;13;2 out of 5 stars;-
+462;15;Gary Brightwell;NYG;Off;RB;RB131;9;3 out of 5 stars;-
+463;15;Chris Moore;HOU;Off;WR;WR156;6;3 out of 5 stars;-
+464;15;Antonio Williams;NYG;Off;RB;RB132;9;3 out of 5 stars;-
+465;15;Le'Veon Bell;FA;Off;RB;RB133;-;-;-
+466;15;Bo Melton;FA;Off;WR;WR157;-;-;-
+467;15;Ryan Griffin;CHI;Off;TE;TE63;14;5 out of 5 stars;-
+468;15;Chris Herndon IV;FA;Off;TE;TE64;-;-;-
+469;15;Noah Gray;KC;Off;TE;TE65;8;3 out of 5 stars;-
+470;15;Kennedy Brooks;FA;Off;RB;RB134;-;-;-
+471;15;Dare Ogunbowale;HOU;Off;RB;RB135;6;3 out of 5 stars;-
+472;15;Cyril Grayson Jr.;FA;Off;WR;WR158;-;-;-
+473;15;Jimmy Graham;FA;Off;TE;TE66;-;-;-
+474;15;Breshad Perriman;TB;Off;WR;WR159;11;4 out of 5 stars;-94
+475;15;Ryan Santoso;FA;Off;K;K8;-;-;-
+476;15;Royce Freeman;HOU;Off;RB;RB136;6;3 out of 5 stars;-
+477;15;DeSean Jackson;FA;Off;WR;WR160;-;-;-
+478;15;Jonathan Ward;ARI;Off;RB;RB137;13;2 out of 5 stars;-
+479;15;JaMycal Hasty;FA;Off;RB;RB138;-;-;-
+480;15;Jordan Akins;NYG;Off;TE;TE67;9;4 out of 5 stars;-
+481;15;Kylin Hill;GB;Off;RB;RB139;14;3 out of 5 stars;-
+482;15;Charlie Kolar;BAL;Off;TE;TE68;10;2 out of 5 stars;-
+483;15;Jake Funk;LAR;Off;RB;RB140;7;2 out of 5 stars;-129
+484;15;Jalen Wydermyer;FA;Off;TE;TE69;-;-;-
+485;15;Jashaun Corbin;FA;Off;RB;RB141;-;-;-
+486;15;Qadree Ollison;FA;Off;RB;RB142;-;-;-
+487;15;Tyler Kroft;FA;Off;TE;TE70;-;-;-
+488;15;Erik Ezukanma;MIA;Off;WR;WR161;11;2 out of 5 stars;-
+489;15;Miles Boykin;PIT;Off;WR;WR162;9;4 out of 5 stars;-
+490;15;Andy Dalton;NO;Off;QB;QB46;14;3 out of 5 stars;-
+491;15;Carlos Martinez;DAL;Off;K;K9;9;5 out of 5 stars;-
+492;15;Dez Fitzpatrick;FA;Off;WR;WR163;-;-;-
+493;15;Jacob Harris;FA;Off;TE;TE71;-;-;-
+494;15;Brycen Hopkins;LAR;Off;TE;TE72;7;3 out of 5 stars;-
+495;15;Trayveon Williams;CIN;Off;RB;RB143;10;3 out of 5 stars;-
+496;15;Blake Bell;KC;Off;TE;TE73;8;3 out of 5 stars;-
+497;15;Maxx Williams;ARI;Off;TE;TE74;13;3 out of 5 stars;-
+498;15;Nick Vannett;NO;Off;TE;TE75;14;4 out of 5 stars;-
+499;15;Cam Sims;WAS;Off;WR;WR164;14;4 out of 5 stars;-154
+500;16;Drew Sample;CIN;Off;TE;TE76;10;2 out of 5 stars;-
+501;16;Tyler Davis;GB;Off;TE;TE77;14;1 out of 5 stars;-
+502;16;KaVontae Turpin;DAL;Off;WR;WR165;9;3 out of 5 stars;-241
+503;16;Andrew Jacas;SF;Off;K;K0;9;3 out of 5 stars;-
+504;16;Julius Chestnut;TEN;Off;RB;RB144;6;4 out of 5 stars;-
+505;16;Nick Boyle;BAL;Off;TE;TE78;10;2 out of 5 stars;-
+506;16;Patrick Ricard;BAL;Off;RB;RB145;10;4 out of 5 stars;-
+507;16;Josh Gordon;FA;Off;WR;WR166;-;-;-
+508;16;Ray-Ray McCloud;SF;Off;WR;WR167;9;3 out of 5 stars;-
+509;16;Brock Wright;DET;Off;TE;TE79;6;4 out of 5 stars;-
+510;16;Trent Sherfield;MIA;Off;WR;WR168;11;2 out of 5 stars;-
+511;16;Lance McCutcheon;LAR;Off;WR;WR169;7;2 out of 5 stars;-
+512;16;Kevin Harris;FA;Off;RB;RB146;-;-;-
+513;16;James O'Shaughnessy;FA;Off;TE;TE80;-;-;-
+514;16;Taylor Heinicke;WAS;Off;QB;QB47;14;4 out of 5 stars;-
+515;16;Rico Dowdle;DAL;Off;RB;RB147;9;4 out of 5 stars;-
+516;16;Mike White;NYJ;Off;QB;QB48;10;1 out of 5 stars;-
+517;16;Zonovan Knight;NYJ;Off;RB;RB148;10;4 out of 5 stars;-
+518;16;Dwayne Washington;NO;Off;RB;RB149;14;3 out of 5 stars;-
+519;16;Cole Turner;WAS;Off;TE;TE81;14;4 out of 5 stars;-
+520;16;Tre' McKitty;LAC;Off;TE;TE82;8;4 out of 5 stars;-
+521;16;Zach Gentry;PIT;Off;TE;TE83;9;4 out of 5 stars;-
+522;16;Hunter Long;MIA;Off;TE;TE84;11;3 out of 5 stars;-
+523;16;Adrian Peterson;FA;Off;RB;RB150;-;-;-
+524;16;Ross Dwelley;SF;Off;TE;TE85;9;4 out of 5 stars;-
+525;16;Damiere Byrd;ATL;Off;WR;WR170;14;4 out of 5 stars;-210
+526;16;Tyron Johnson;LV;Off;WR;WR171;6;2 out of 5 stars;-
+527;16;Kyle Allen;HOU;Off;QB;QB49;6;4 out of 5 stars;-
+528;16;David Sills V;NYG;Off;WR;WR172;9;4 out of 5 stars;-
+529;16;Johnny Mundt;MIN;Off;TE;TE86;7;3 out of 5 stars;-
+530;16;Montrell Washington;DEN;Off;WR;WR173;9;4 out of 5 stars;-
+531;16;Alec Ingold;MIA;Off;RB;RB151;11;4 out of 5 stars;-
+532;16;Marcedes Lewis;GB;Off;TE;TE87;14;1 out of 5 stars;-
+533;16;Brandon Zylstra;FA;Off;WR;WR174;-;-;-
+534;16;Blaine Gabbert;TB;Off;QB;QB50;11;3 out of 5 stars;-138
+535;16;Ryquell Armstead;FA;Off;RB;RB152;-;-;-
+536;16;Kendall Hinton;FA;Off;WR;WR175;-;-;-
+537;16;Travis Fulgham;FA;Off;WR;WR176;-;-;-
+538;16;Kendall Blanton;FA;Off;TE;TE88;-;-;-
+539;16;Mason Rudolph;PIT;Off;QB;QB51;9;3 out of 5 stars;-
+540;16;John Wolford;LAR;Off;QB;QB52;7;3 out of 5 stars;-
+541;16;Patrick Taylor Jr.;FA;Off;RB;RB153;-;-;-
+542;16;C.J. Ham;MIN;Off;RB;RB154;7;4 out of 5 stars;-209
+543;16;J.J. Taylor;FA;Off;RB;RB155;-;-;-
+1;1;Roquan Smith;CHI;Def;LB;LB1;14;-;-
+2;1;Bobby Wagner;LAR;Def;LB;LB2;7;-;-
+3;1;Jordyn Brooks;SEA;Def;LB;LB3;11;-;-
+4;1;Devin White;TB;Def;LB;LB4;11;-;-
+5;1;De'Vondre Campbell;GB;Def;LB;LB5;14;-;-
+6;1;Fred Warner;SF;Def;LB;LB6;9;-;-
+7;1;Derwin James Jr.;LAC;Def;S1;S1;8;-;-
+8;1;Foye Oluokun;JAC;Def;LB;LB7;11;-;-
+9;1;Eric Kendricks;MIN;Def;LB;LB8;7;-;-
+10;2;Myles Garrett;CLE;Def;DE;DE1;9;-;-
+11;2;Blake Martinez;NYG;Def;LB;LB9;9;-;-
+12;2;Micah Parsons;DAL;Def;LB;LB10;9;-;-
+13;2;T.J. Watt;PIT;Def;LB;LB11;9;-;-
+14;2;Nick Bosa;SF;Def;DE;DE2;9;-;-
+15;2;Logan Wilson;CIN;Def;LB;LB12;10;-;-
+16;2;C.J. Mosley;NYJ;Def;LB;LB13;10;-;-
+17;2;Jamal Adams;SEA;Def;S2;S2;11;-;-
+18;2;Cole Holcomb;WAS;Def;LB;LB14;14;-;-
+19;2;Aaron Donald;LAR;Def;DT;DT1;7;-;-
+20;2;Jordan Poyer;BUF;Def;S3;S3;7;-;-
+21;2;Jeremy Chinn;CAR;Def;S4;S4;13;-;-
+22;2;Budda Baker;ARI;Def;S5;S5;13;-;-
+23;2;Shaquille Leonard;IND;Def;LB;LB15;14;-;-
+24;3;Harrison Smith;MIN;Def;S6;S6;7;-;-
+25;3;Bobby Okereke;IND;Def;LB;LB16;14;-;-
+26;3;Antoine Winfield Jr.;TB;Def;S7;S7;11;-;-
+27;3;Nick Bolton;KC;Def;LB;LB17;8;-;-
+28;3;Lavonte David;TB;Def;LB;LB18;11;-;-
+29;3;Demario Davis;NO;Def;LB;LB19;14;-;-
+30;3;Minkah Fitzpatrick;PIT;Def;S8;S8;9;-;-
+31;3;Denzel Perryman;LV;Def;LB;LB20;6;-;-
+32;3;Jalen Thompson;ARI;Def;S9;S9;13;-;-
+33;3;Tremaine Edmunds;BUF;Def;LB;LB21;7;-;-
+34;3;Jordan Hicks;MIN;Def;LB;LB22;7;-;-
+35;3;Shaq Thompson;CAR;Def;LB;LB23;13;-;-
+36;3;Jeremiah Owusu-Koramoah;CLE;Def;LB;LB24;9;-;-
+37;3;Kenny Moore II;IND;Def;CB;CB1;14;-;-
+38;3;Jerome Baker;MIA;Def;LB;LB25;11;-;-
+39;3;Isaiah Simmons;ARI;Def;LB;LB26;13;-;-
+40;3;Vonn Bell;CIN;Def;S1;S10;10;-;-
+41;3;Johnathan Abram;LV;Def;S1;S11;6;-;-
+42;3;Justin Simmons;DEN;Def;S1;S12;9;-;-
+43;4;Kevin Byard;TEN;Def;S1;S13;6;-;-
+44;4;Kamren Curl;WAS;Def;S1;S14;14;-;-
+45;4;Cameron Heyward;PIT;Def;DE;DE3;9;-;-
+46;4;Myles Jack;PIT;Def;LB;LB27;9;-;-
+47;4;Jayron Kearse;DAL;Def;S1;S15;9;-;-
+48;4;David Long Jr.;TEN;Def;LB;LB28;6;-;-
+49;4;Jessie Bates III;CIN;Def;S1;S16;10;-;-
+50;4;Devin Lloyd;JAC;Def;LB;LB29;11;-;-
+51;4;Maxx Crosby;LV;Def;DE;DE4;6;-;-
+52;4;Christian Kirksey;HOU;Def;LB;LB30;6;-;-
+53;4;Kyzir White;PHI;Def;LB;LB31;7;-;-
+54;4;Xavier McKinney;NYG;Def;S1;S17;9;-;-
+55;4;Matt Milano;BUF;Def;LB;LB32;7;-;-
+56;4;Tracy Walker III;DET;Def;S1;S18;6;-;-
+57;4;Deion Jones;ATL;Def;LB;LB33;14;-;-
+58;4;Trey Hendrickson;CIN;Def;DE;DE5;10;-;-
+59;4;Patrick Queen;BAL;Def;LB;LB34;10;-;-
+60;4;Brian Burns;CAR;Def;DE;DE6;13;-;-
+61;4;Cody Barton;SEA;Def;LB;LB35;11;-;-
+62;4;Cameron Jordan;NO;Def;DE;DE7;14;-;-
+63;4;Quincy Williams;NYJ;Def;LB;LB36;10;-;-
+64;5;Zaven Collins;ARI;Def;LB;LB37;13;-;-
+65;5;Kyle Dugger;NE;Def;S1;S19;10;-;-
+66;5;Zach Cunningham;TEN;Def;LB;LB38;6;-;-
+67;5;DeForest Buckner;IND;Def;DT;DT2;14;-;-
+68;5;Jordan Whitehead;NYJ;Def;S2;S20;10;-;-
+69;5;Tyrann Mathieu;NO;Def;S2;S21;14;-;-
+70;5;DeMarcus Lawrence;DAL;Def;DE;DE8;9;-;-
+71;5;Joey Bosa;LAC;Def;DE;DE9;8;-;-
+72;5;Jamin Davis;WAS;Def;LB;LB39;14;-;-
+73;5;Logan Ryan;FA;Def;CB;CB2;-;-;-
+74;5;Josh Allen;JAC;Def;DE;DE10;11;-;-
+75;5;T.J. Edwards;PHI;Def;LB;LB40;7;-;-
+76;5;Anthony Walker Jr.;CLE;Def;LB;LB41;9;-;-
+77;5;Leonard Williams;NYG;Def;DE;DE11;9;-;-
+78;5;Pete Werner;NO;Def;LB;LB42;14;-;-
+79;5;Taylor Rapp;LAR;Def;S2;S22;7;-;-
+80;5;Robert Quinn;CHI;Def;LB;LB43;14;-;-
+81;5;Marcus Davenport;NO;Def;DE;DE12;14;-;-
+82;5;Jordan Fuller;LAR;Def;S2;S23;7;-;-
+83;5;Marcus Maye;NO;Def;S2;S24;14;-;-
+84;5;Danielle Hunter;MIN;Def;DE;DE13;7;-;-
+85;5;Jeffery Simmons;TEN;Def;DT;DT3;6;-;-
+86;5;Montez Sweat;WAS;Def;DE;DE14;14;-;-
+87;5;Nicholas Morrow;CHI;Def;LB;LB44;14;-;-
+88;5;Brandon Jones;MIA;Def;S2;S25;11;-;-
+89;5;Grant Delpit;CLE;Def;S2;S26;9;-;-
+90;5;Sam Hubbard;CIN;Def;DE;DE15;10;-;-
+91;5;Haason Reddick;PHI;Def;DE;DE16;7;-;-
+92;5;Chris Jones;KC;Def;DT;DT4;8;-;-
+93;6;Christian Wilkins;MIA;Def;DT;DT5;11;-;-
+94;6;Ja'Whaun Bentley;NE;Def;LB;LB45;10;-;-
+95;6;Dre Greenlaw;SF;Def;LB;LB46;9;-;-
+96;6;Chase Young;WAS;Def;DE;DE17;14;-;-
+97;6;Jevon Holland;MIA;Def;S2;S27;11;-;-
+98;6;Adrian Amos;GB;Def;S2;S28;14;-;-
+99;6;Chandler Jones;LV;Def;LB;LB47;6;-;-
+100;6;Kyle Hamilton;BAL;Def;S2;S29;10;-;-
+101;6;Azeez Al-Shaair;SF;Def;LB;LB48;9;-;-
+102;6;Josey Jewell;DEN;Def;LB;LB49;9;-;-
+103;6;Kamu Grugier-Hill;HOU;Def;LB;LB50;6;-;-
+104;6;Rashaan Evans;ATL;Def;LB;LB51;14;-;-
+105;6;Nasir Adderley;LAC;Def;S3;S30;8;-;-
+106;6;Shaquil Barrett;TB;Def;LB;LB52;11;-;-
+107;6;Trevon Diggs;DAL;Def;CB;CB3;9;-;-
+108;6;Jaelan Phillips;MIA;Def;DE;DE18;11;-;-
+109;6;Jonathan Greenard;HOU;Def;DE;DE19;6;-;-
+110;6;Harold Landry III;TEN;Def;LB;LB53;6;-;-
+111;6;Jaquan Brisker;CHI;Def;S3;S31;14;-;-
+112;6;Alex Singleton;DEN;Def;LB;LB54;9;-;-
+113;6;A.J. Terrell;ATL;Def;CB;CB4;14;-;-
+114;6;Jonathan Allen;WAS;Def;DT;DT6;14;-;-
+115;6;Marlon Humphrey;BAL;Def;CB;CB5;10;-;-
+116;6;Greg Rousseau;BUF;Def;DE;DE20;7;-;-
+117;6;Divine Deablo;LV;Def;S3;S32;6;-;-
+118;6;Alex Anzalone;DET;Def;LB;LB55;6;-;-
+119;6;Micah Hyde;BUF;Def;S3;S33;7;-;-
+120;6;Justin Reid;KC;Def;S3;S34;8;-;-
+121;7;Drue Tranquill;LAC;Def;LB;LB56;8;-;-
+122;7;Nakobe Dean;PHI;Def;LB;LB57;7;-;-
+123;7;Rashan Gary;GB;Def;LB;LB58;14;-;-
+124;7;Leighton Vander Esch;DAL;Def;LB;LB59;9;-;-
+125;7;Christian Harris;HOU;Def;LB;LB60;6;-;-
+126;7;Xavier Woods;CAR;Def;S3;S35;13;-;-
+127;7;Quinnen Williams;NYJ;Def;DT;DT7;10;-;-
+128;7;Quandre Diggs;SEA;Def;S3;S36;11;-;-
+129;7;Adrian Phillips;NE;Def;S3;S37;10;-;-
+130;7;Eddie Jackson;CHI;Def;S3;S38;14;-;-
+131;7;Khalil Mack;LAC;Def;LB;LB61;8;-;-
+132;7;Kwity Paye;IND;Def;DE;DE21;14;-;-
+133;7;Jayon Brown;LV;Def;LB;LB62;6;-;-
+134;7;Aidan Hutchinson;DET;Def;DE;DE22;6;-;-
+135;7;Mykal Walker;ATL;Def;LB;LB63;14;-;-
+136;7;J.C. Jackson;LAC;Def;CB;CB6;8;-;-
+137;7;John Johnson III;CLE;Def;S3;S39;9;-;-
+138;7;Germaine Pratt;CIN;Def;LB;LB64;10;-;-
+139;7;Quay Walker;GB;Def;LB;LB65;14;-;-
+140;7;Za'Darius Smith;MIN;Def;LB;LB66;7;-;-
+141;7;Damien Wilson;CAR;Def;LB;LB67;13;-;-
+142;7;Julian Love;NYG;Def;CB;CB7;9;-;-
+143;7;L'Jarius Sneed;KC;Def;CB;CB8;8;-;-
+144;7;Willie Gay Jr.;KC;Def;LB;LB68;8;-;-
+145;7;Emmanuel Ogbah;MIA;Def;DE;DE23;11;-;-
+146;7;Von Miller;BUF;Def;LB;LB69;7;-;-
+147;7;Xavien Howard;MIA;Def;CB;CB9;11;-;-
+148;7;Nick Cross;IND;Def;S4;S40;14;-;-
+149;7;Kendall Fuller;WAS;Def;CB;CB10;14;-;-
+150;7;Terrell Edmunds;PIT;Def;S4;S41;9;-;-
+151;7;Josh Bynes;BAL;Def;LB;LB70;10;-;-
+152;7;Charles Harris;DET;Def;DE;DE24;6;-;-
+153;7;Rasul Douglas;GB;Def;CB;CB11;14;-;-
+154;7;Amani Oruwariye;DET;Def;CB;CB12;6;-;-
+155;7;Brandon Graham;PHI;Def;DE;DE25;7;-;-
+156;7;Kayvon Thibodeaux;NYG;Def;DE;DE26;9;-;-
+157;7;Kareem Jackson;DEN;Def;S4;S42;9;-;-
+158;7;Richie Grant;ATL;Def;S4;S43;14;-;-
+159;7;Marshon Lattimore;NO;Def;CB;CB13;14;-;-
+160;7;Chuck Clark;BAL;Def;S4;S44;10;-;-
+161;7;Dennis Gardeck;ARI;Def;LB;LB71;13;-;-
+162;7;D.J. Reed Jr.;NYJ;Def;CB;CB14;10;-;-
+163;7;J.J. Watt;ARI;Def;DE;DE27;13;-;-
+164;7;Devin Bush Jr.;PIT;Def;LB;LB72;9;-;-
+165;7;Yannick Ngakoue;IND;Def;DE;DE28;14;-;-
+166;7;Javon Hargrave;PHI;Def;DT;DT8;7;-;-
+167;7;Taron Johnson;BUF;Def;CB;CB15;7;-;-
+168;7;Cory Littleton;CAR;Def;LB;LB73;13;-;-
+169;8;Anthony Brown;DAL;Def;CB;CB16;9;-;-
+170;8;Carlos Dunlap II;KC;Def;DE;DE29;8;-;-
+171;8;Elandon Roberts;MIA;Def;LB;LB74;11;-;-
+172;8;Matt Judon;NE;Def;LB;LB75;10;-;-
+173;8;Chidobe Awuzie;CIN;Def;CB;CB17;10;-;-
+174;8;Jalen Ramsey;LAR;Def;CB;CB18;7;-;-
+175;8;Leonard Floyd;LAR;Def;LB;LB76;7;-;-
+176;8;Jonathan Owens;HOU;Def;S4;S45;6;-;-
+177;8;Donte Jackson;CAR;Def;CB;CB19;13;-;-
+178;8;Julian Blackmon;IND;Def;S4;S46;14;-;-
+179;8;Daron Payne;WAS;Def;DT;DT9;14;-;-
+180;8;Tae Crowder;NYG;Def;LB;LB77;9;-;-
+181;8;Trevis Gipson;CHI;Def;DE;DE30;14;-;-
+182;8;Grady Jarrett;ATL;Def;DT;DT10;14;-;-
+183;8;Jourdan Lewis;DAL;Def;CB;CB20;9;-;-
+184;8;Arik Armstead;SF;Def;DE;DE31;9;-;-
+185;8;Will Harris;DET;Def;S4;S47;6;-;-
+186;8;Lorenzo Carter;ATL;Def;LB;LB78;14;-;-
+187;8;Charvarius Ward;SF;Def;CB;CB21;9;-;-
+188;8;Sidney Jones IV;SEA;Def;CB;CB22;11;-;-
+189;8;Darious Williams;JAC;Def;CB;CB23;11;-;-
+190;8;Zach Allen;ARI;Def;DE;DE32;13;-;-
+191;8;Azeez Ojulari;NYG;Def;LB;LB79;9;-;-
+192;8;Markus Golden;ARI;Def;LB;LB80;13;-;-
+193;8;Travon Walker;JAC;Def;DE;DE33;11;-;-
+194;8;Adoree' Jackson;NYG;Def;CB;CB24;9;-;-
+195;8;Shelby Harris;SEA;Def;DE;DE34;11;-;-
+196;8;Amani Hooker;TEN;Def;S4;S48;6;-;-
+197;8;Denico Autry;TEN;Def;DT;DT11;6;-;-
+198;8;Ernest Jones;LAR;Def;LB;LB81;7;-;-
+199;8;Ronald Darby;DEN;Def;CB;CB25;9;-;-
+200;8;Emmanuel Moseley;SF;Def;CB;CB26;9;-;-
+201;8;Sebastian Joseph-Day;LAC;Def;DT;DT12;8;-;-
+202;8;Darrell Taylor;SEA;Def;DE;DE35;11;-;-
+203;8;Anthony Harris;FA;Def;S4;S49;-;-;-
+204;8;Darnell Savage Jr.;GB;Def;S5;S50;14;-;-
+205;8;Dexter Lawrence II;NYG;Def;DT;DT13;9;-;-
+206;8;Devin McCourty;NE;Def;S5;S51;10;-;-
+207;8;Marcus Epps;PHI;Def;S5;S52;7;-;-
+208;8;Christian Barmore;NE;Def;DT;DT14;10;-;-
+209;8;Larry Ogunjobi;PIT;Def;DT;DT15;9;-;-
+210;8;Kristian Fulton;TEN;Def;CB;CB27;6;-;-
+211;8;Alex Highsmith;PIT;Def;LB;LB82;9;-;-
+212;9;Avonte Maddox;PHI;Def;CB;CB28;7;-;-
+213;9;Jalen Pitre;HOU;Def;S5;S53;6;-;-
+214;9;Mike Hilton;CIN;Def;CB;CB29;10;-;-
+215;9;Austin Johnson;LAC;Def;DT;DT16;8;-;-
+216;9;Josh Sweat;PHI;Def;DE;DE36;7;-;-
+217;9;Nik Needham;MIA;Def;CB;CB30;11;-;-
+218;9;DeShon Elliott;DET;Def;S5;S54;6;-;-
+219;9;Jadeveon Clowney;CLE;Def;DE;DE37;9;-;-
+220;9;James Bradberry;PHI;Def;CB;CB31;7;-;-
+221;9;Brandon Facyson;IND;Def;CB;CB32;14;-;-
+222;9;John Franklin-Myers;NYJ;Def;DE;DE38;10;-;-
+223;9;Myles Bryant;NE;Def;CB;CB33;10;-;-
+224;9;Kenny Clark;GB;Def;DT;DT17;14;-;-
+225;9;Malik Hooker;DAL;Def;S5;S55;9;-;-
+226;9;Bryce Hall;NYJ;Def;CB;CB34;10;-;-
+227;9;Troy Reeder;LAC;Def;LB;LB83;8;-;-
+228;9;Desmond King II;HOU;Def;CB;CB35;6;-;-
+229;9;Denzel Ward;CLE;Def;CB;CB36;9;-;-
+230;9;Rayshawn Jenkins;JAC;Def;S5;S56;11;-;-
+231;9;Yetur Gross-Matos;CAR;Def;DE;DE39;13;-;-
+232;9;Greg Gaines;LAR;Def;DT;DT18;7;-;-
+233;9;Byron Murphy Jr.;ARI;Def;CB;CB37;13;-;-
+234;9;Darius Slay;PHI;Def;CB;CB38;7;-;-
+235;9;D.J. Jones;DEN;Def;DT;DT19;9;-;-
+236;9;Anthony Rush;ATL;Def;DT;DT20;14;-;-
+237;9;Zach Sieler;MIA;Def;DE;DE40;11;-;-
+238;9;Preston Smith;GB;Def;LB;LB84;14;-;-
+239;9;Garret Wallow;HOU;Def;LB;LB85;6;-;-
+240;9;Bobby McCain;WAS;Def;CB;CB39;14;-;-
+241;9;Jaylon Johnson;CHI;Def;CB;CB40;14;-;-
+242;9;Artie Burns;SEA;Def;CB;CB41;11;-;-
+243;9;Deatrich Wise Jr.;NE;Def;DE;DE41;10;-;-
+244;9;Anthony Barr;DAL;Def;LB;LB86;9;-;-
+245;9;Chris Wormley;PIT;Def;DT;DT21;9;-;-
+246;9;Nick Scott;LAR;Def;S5;S57;7;-;-
+247;9;Krys Barnes;GB;Def;LB;LB87;14;-;-
+248;9;Carlton Davis III;TB;Def;CB;CB42;11;-;-
+249;9;Odafe Oweh;BAL;Def;DE;DE42;10;-;-
+250;9;Joe Tryon-Shoyinka;TB;Def;LB;LB88;11;-;-
+251;9;DeShawn Williams;DEN;Def;DT;DT22;9;-;-
+252;9;Ed Oliver;BUF;Def;DT;DT23;7;-;-
+253;9;Justin Jones;CHI;Def;DT;DT24;14;-;-
+254;9;Rasheem Green;HOU;Def;DE;DE43;6;-;-
+255;9;Michael Pierce;BAL;Def;DT;DT25;10;-;-
+256;9;Chris Board;DET;Def;S5;S58;6;-;-
+257;9;Bilal Nichols;LV;Def;DT;DT26;6;-;-
+258;9;Juan Thornhill;KC;Def;S5;S59;8;-;-
+259;9;Calais Campbell;BAL;Def;DE;DE44;10;-;-
+260;9;Nick Vigil;ARI;Def;LB;LB89;13;-;-
+261;9;C.J. Gardner-Johnson;PHI;Def;CB;CB43;7;-;-
+262;9;Darnay Holmes;NYG;Def;CB;CB44;9;-;-
+263;9;William Jackson III;WAS;Def;CB;CB45;14;-;-
+264;9;Lamarcus Joyner;NYJ;Def;S6;S60;10;-;-
+265;9;David Onyemata;NO;Def;DT;DT27;14;-;-
+266;9;Lawrence Guy;NE;Def;DT;DT28;10;-;-
+267;9;B.J. Hill;CIN;Def;DT;DT29;10;-;-
+268;9;Jamel Dean;TB;Def;CB;CB46;11;-;-
+269;9;AJ Parker;FA;Def;CB;CB47;-;-;-
+270;9;Derrick Barnes;DET;Def;LB;LB90;6;-;-
+271;9;Tavierre Thomas;HOU;Def;CB;CB48;6;-;-
+272;9;Shaquill Griffin;JAC;Def;CB;CB49;11;-;-
+273;9;Camryn Bynum;MIN;Def;CB;CB50;7;-;-
+274;9;Frankie Luvu;CAR;Def;LB;LB91;13;-;-
+275;9;Bradley Chubb;DEN;Def;LB;LB92;9;-;-
+276;9;Aaron Robinson;NYG;Def;CB;CB51;9;-;-
+277;9;Taven Bryan;CLE;Def;DT;DT30;9;-;-
+278;9;Levi Wallace;PIT;Def;CB;CB52;9;-;-
+279;9;Eric Murray;HOU;Def;CB;CB53;6;-;-
+280;10;Jalen Mills;NE;Def;S6;S61;10;-;-
+281;10;Josh Uche;NE;Def;DE;DE45;10;-;-
+282;10;Tashaun Gipson Sr.;FA;Def;S6;S62;-;-;-
+283;10;Justin Coleman;FA;Def;CB;CB54;-;-;-
+284;10;Javon Kinlaw;SF;Def;DT;DT31;9;-;-
+285;10;D.J. Reader;CIN;Def;DT;DT32;10;-;-
+286;10;Antonio Hamilton;ARI;Def;CB;CB55;13;-;-
+287;10;Greedy Williams;CLE;Def;CB;CB56;9;-;-
+288;10;A'Shawn Robinson;LAR;Def;DT;DT33;7;-;-
+289;10;Dre'Mont Jones;DEN;Def;DT;DT34;9;-;-
+290;10;William Gholston;TB;Def;DE;DE46;11;-;-
+291;10;James Smith-Williams;WAS;Def;DE;DE47;14;-;-
+292;10;Angelo Blackson;CHI;Def;DT;DT35;14;-;-
+293;10;Pat Surtain II;DEN;Def;CB;CB57;9;-;-
+294;10;Neville Gallimore;DAL;Def;DT;DT36;9;-;-
+295;10;Dean Lowry;GB;Def;DE;DE48;14;-;-
+296;10;Al Woods;SEA;Def;DT;DT37;11;-;-
+297;10;Vita Vea;TB;Def;DT;DT38;11;-;-
+298;10;Carl Lawson;NYJ;Def;DE;DE49;10;-;-
+299;10;Fletcher Cox;PHI;Def;DT;DT39;7;-;-
+300;10;Dorance Armstrong Jr.;DAL;Def;DE;DE50;9;-;-
+301;10;Michael Brockers;DET;Def;DT;DT40;6;-;-
+302;10;Morgan Fox;LAC;Def;DE;DE51;8;-;-
+303;10;Jarran Reed;GB;Def;DT;DT41;14;-;-
+304;10;Derrick Brown;CAR;Def;DT;DT42;13;-;-
+305;10;Frank Clark;KC;Def;DE;DE52;8;-;-
+306;10;Ta'Quon Graham;ATL;Def;DT;DT43;14;-;-
+307;10;Grover Stewart;IND;Def;DT;DT44;14;-;-
+308;11;Justin Houston;BAL;Def;DE;DE53;10;-;-
+309;11;Jordan Elliott;CLE;Def;DT;DT45;9;-;-
+310;11;Justin Madubuike;BAL;Def;DT;DT46;10;-;-
+311;11;Akiem Hicks;TB;Def;DE;DE54;11;-;-
+312;11;Roy Robertson-Harris;JAC;Def;DT;DT47;11;-;-
+313;11;Matt Ioannidis;CAR;Def;DE;DE55;13;-;-
+314;11;Poona Ford;SEA;Def;DT;DT48;11;-;-
+315;11;Alim McNeill;DET;Def;DT;DT49;6;-;-
+316;11;Johnathan Hankins;LV;Def;DT;DT50;6;-;-
